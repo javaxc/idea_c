@@ -6,6 +6,7 @@ package com.chen.git;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("git ddd test");
+        System.out.println("git ddd test");
 
     }
 }
